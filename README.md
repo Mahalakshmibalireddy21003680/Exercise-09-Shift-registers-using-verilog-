@@ -121,8 +121,10 @@ endmodule
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 ### SIPO
 <img width="830" alt="a4" src="https://user-images.githubusercontent.com/93427286/202154229-a3aff057-f3fd-4ca9-b910-f534faf63ebc.png">
+
 ### PISO
 <img width="829" alt="a5" src="https://user-images.githubusercontent.com/93427286/202154246-78fa432f-2841-46f1-b340-1c3ed5e1fcf5.png">
+
 ### PIPO
 <img width="830" alt="a6" src="https://user-images.githubusercontent.com/93427286/202154263-42277b1d-b032-494f-a853-373f34d4f78a.png">
 
